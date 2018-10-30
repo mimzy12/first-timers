@@ -128,6 +128,12 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
 
+## Erika
+- I work for the Navy
+- My hobbies include reading and 
+-  [![facebook-alt][facebook-img]](https://facebook.com/example)
+   [![twitter-alt][twitter-img]](https://twitter.com/example)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
